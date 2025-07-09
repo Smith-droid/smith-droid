@@ -30,7 +30,7 @@
 | Project Name | Tech Stack | Live Demo |
 |--------------|------------|-----------|
 | 📰 **News App** | React, React Router, CSS | [Live](https://smith-droid.github.io/news-app) • [Repo](https://github.com/Smith-droid/news-app) |
-| 🛒 **Ecommerce Website** | HTML, CSS, JS | [Repo](https://github.com/Smith-droid/ecommerce-website) |
+| 🛒 **Ecommerce Website** | HTML, CSS, JS | [Live](https://smith-droid.github.io/ecommerce-website) • [Repo](https://github.com/Smith-droid/ecommerce-website) |
 
 > More projects coming soon — full-stack + REST API integration 🔄
 
