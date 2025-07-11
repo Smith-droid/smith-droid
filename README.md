@@ -39,10 +39,17 @@
 ### 📈 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=Smith-droid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Smith-droid&theme=tokyonight&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=Smith-droid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
